@@ -1,0 +1,76 @@
+[
+    {
+        "statusListModels": [
+            {
+                "statusName": "AVAILABLE",
+                "userModelList": [
+                    {
+                        "name": " manvith"
+                    },
+                    {
+                        "name": "mychu"
+                    }
+                ]
+            },
+            {
+                "statusName": "AWAY",
+                "userModelList": []
+            },
+            {
+                "statusName": "OFFLINE",
+                "userModelList": []
+            }
+        ],
+        "deviceName": "phone"
+    },
+    {
+        "statusListModels": [
+            {
+                "statusName": "AVAILABLE",
+                "userModelList": []
+            },
+            {
+                "statusName": "AWAY",
+                "userModelList": [
+                    {
+                        "name": " manvith"
+                    }
+                ]
+            },
+            {
+                "statusName": "OFFLINE",
+                "userModelList": [
+                    {
+                        "name": "mychu"
+                    }
+                ]
+            }
+        ],
+        "deviceName": "chat"
+    },
+    {
+        "statusListModels": [
+            {
+                "statusName": "AVAILABLE",
+                "userModelList": []
+            },
+            {
+                "statusName": "AWAY",
+                "userModelList": [
+                    {
+                        "name": "mychu"
+                    }
+                ]
+            },
+            {
+                "statusName": "OFFLINE",
+                "userModelList": [
+                    {
+                        "name": " manvith"
+                    }
+                ]
+            }
+        ],
+        "deviceName": "sms"
+    }
+]
